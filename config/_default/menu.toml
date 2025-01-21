@@ -7,18 +7,18 @@
 #icon = "home"
 #newtab = true
 
-[[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/xyxyxyl"
+# [[social]]
+# identifier = "github"
+# name = "GitHub"
+# url = "https://github.com/xyxyxyl"
 
-[social.params]
-icon = "brand-github"
+# [social.params]
+# icon = "brand-github"
 
-[[social]]
-identifier = "twitter"
-name = "Mastodon"
-url = "https://m.cmx.im/@Nisieko"
+# [[social]]
+# identifier = "twitter"
+# name = "Mastodon"
+# url = "https://m.cmx.im/@Nisieko"
 
-[social.params]
-icon = "brand-mastodon"
+# [social.params]
+# icon = "brand-mastodon"
